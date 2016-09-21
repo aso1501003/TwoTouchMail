@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TwoTouchMail</string>
+    <string name="botton_pikup">むかえに来て</string>
+    <string name="botton_no_dinner">ご飯いらない</string>
+    <string name="button_send">送信</string>
+    <string name="subject">件名</string>
+    <string name="place">場所</string>
+    <string name="station">駅</string>
+    <string name="school">学校</string>
+    <string name="always">いつもの場所</string>
+    <string name="mail_to">oripin1221@icloud.com</string>
+    <string name="mail_to1">1501003@st.asojuku.ac.jp</string>
+    <string name="mail_to2">iruka1221@yahoo.co.jp</string>
+    //上一行のソースを5個ぐらいにしてランダムに飛ばせるようにする
+</resources>
