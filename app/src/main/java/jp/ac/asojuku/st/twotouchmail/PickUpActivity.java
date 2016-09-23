@@ -37,7 +37,7 @@ public class PickUpActivity extends AppCompatActivity {
                     case '1':
                         uri = Uri.parse("mailto1:" + res.getString(R.string.mail_to1).toString());
                         break;
-                    case '2':
+                    default:
                         uri = Uri.parse("mailto2:" + res.getString(R.string.mail_to2).toString());
                         break;
                 }
